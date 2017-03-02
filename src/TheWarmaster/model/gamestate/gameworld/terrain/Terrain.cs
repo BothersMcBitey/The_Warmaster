@@ -4,9 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheWarmaster {
-    class Program {
-        static void Main(string[] args) {
-        }
+namespace TheWarmaster.model.gamestate.gameworld.terrain {
+    class Terrain {
     }
 }
