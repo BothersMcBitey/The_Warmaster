@@ -5,3 +5,7 @@
 
 
 \.project
+
+/src/.vs
+/src/TheWarmaster/bin/
+/src/TheWarmaster/obj/
